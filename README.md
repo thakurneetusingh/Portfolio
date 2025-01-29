@@ -1,6 +1,10 @@
-**Data Engineer | Big Data | ETL | Cloud Computing | FinTech & Healthcare Analytics**  
+# 👋 Hi, I'm Neetu Singh  
 
-## **Technical Skills**
+🚀 **Data Engineer | Big Data | ETL | Cloud Computing | FinTech & Healthcare Analytics**  
+
+🔍 Passionate about **building scalable data solutions**, optimizing **ETL pipelines**, and leveraging **big data technologies** to drive business insights. With **5 years of experience**, I specialize in designing **real-time and batch data processing workflows**, ensuring data integrity, security, and performance at scale.  
+
+## 🛠️ **Technical Skills**
 - **Programming:** SQL, Python, Scala, Bash  
 - **Big Data Technologies:** Apache Spark, Hadoop, Kafka, Flink  
 - **ETL & Workflow Automation:** Apache Airflow, AWS Glue, dbt, Informatica  
@@ -11,7 +15,7 @@
 - **DevOps & Infrastructure:** Terraform, Kubernetes, Docker, Git  
 - **Testing & Performance:** Unit Testing, Integration Testing, Query Optimization  
 
-## **Professional Experience**
+## 📌 **Professional Experience**
 ### **Data Engineer - Pharmaceutical Supply Chain & Healthcare Analytics**  
 📍 **Cencora, Austin, TX** | *May 2023 – Present*  
 - Architected **scalable data pipelines** for **pharmaceutical supply chain and healthcare analytics**.  
@@ -29,3 +33,14 @@
 - Designed **ETL workflows** for **financial transaction data processing**.  
 - Automated **data ingestion & transformation** with **Apache Airflow & Informatica**.  
 - Conducted **query optimization**, improving **data processing efficiency by 35%**.  
+
+## 📂 **GitHub Repositories**
+🚧 *Currently working on uploading open-source projects & case studies!*  
+🔹 **Coming Soon:** Data Engineering Projects (ETL, Streaming, Cloud, Big Data)  
+
+## 📫 **Connect with Me**
+📍 **Denton, Texas**  
+📧 [neetu20001001@gmail.com](mailto:neetu20001001@gmail.com)  
+💼 [LinkedIn](www.linkedin.com/in/neetu-singh-504a2514a)  
+
+💡 *Open to collaborations in Data Engineering, Cloud Architecture, and AI-driven Data Solutions!*  
