@@ -1,6 +1,6 @@
 **Data Engineer | Big Data | ETL | Cloud Computing | FinTech & Healthcare Analytics**  
 
-## 🛠️ **Technical Skills**
+## **Technical Skills**
 - **Programming:** SQL, Python, Scala, Bash  
 - **Big Data Technologies:** Apache Spark, Hadoop, Kafka, Flink  
 - **ETL & Workflow Automation:** Apache Airflow, AWS Glue, dbt, Informatica  
@@ -11,7 +11,7 @@
 - **DevOps & Infrastructure:** Terraform, Kubernetes, Docker, Git  
 - **Testing & Performance:** Unit Testing, Integration Testing, Query Optimization  
 
-## 📌 **Professional Experience**
+## **Professional Experience**
 ### **Data Engineer - Pharmaceutical Supply Chain & Healthcare Analytics**  
 📍 **Cencora, Austin, TX** | *May 2023 – Present*  
 - Architected **scalable data pipelines** for **pharmaceutical supply chain and healthcare analytics**.  
