@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Neetu Singh  
+# 👋 Hi, I'm Thakur Neetu Singh  
 
 🚀 **Data Engineer | Big Data | ETL | Cloud Computing | FinTech & Healthcare Analytics**  
 
