@@ -39,7 +39,7 @@
 🔹 **Coming Soon:** Data Engineering Projects (ETL, Streaming, Cloud, Big Data)  
 
 ## 📫 **Connect with Me**
-📍 **Denton, Texas**  
+📍 **Dallas, Texas**  
 📧 [neetu20001001@gmail.com](mailto:neetu20001001@gmail.com)  
 💼 [LinkedIn](www.linkedin.com/in/neetu-singh-504a2514a)  
 
